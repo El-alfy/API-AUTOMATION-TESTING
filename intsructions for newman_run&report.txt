@@ -1,0 +1,14 @@
+
+-json-server --watch db.json
+-json-server db.json -m ./node_modules/json-server-auth 
+
+ 
+-newman run collection.json -e locally.postman_environment.json 
+
+to report 
+in same cmd 
+newman run collection.json -e locally.postman_environment.json -r htmlextra
+
+
+
+System.setProperty("hudson.model.DirectoryBrowserSupport.CSP", "")

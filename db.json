@@ -1,0 +1,204 @@
+{
+  "Computer_Science_courses": [
+    {
+      "id": 1,
+      "level": "1",
+      "title": "Introduction to Computer Science",
+      "description": "full course one semester"
+    },
+    {
+      "id": 2,
+      "level": "1",
+      "title": "Physics",
+      "description": "full course one semester"
+    },
+    {
+      "id": 3,
+      "level": "1",
+      "title": "Calculus I",
+      "description": "full course one semester"
+    },
+    {
+      "id": 4,
+      "level": "1",
+      "title": "Critical Thinking",
+      "description": "full course one semester"
+    },
+    {
+      "id": 5,
+      "level": "1",
+      "title": "Linear Algebra I",
+      "description": "full course one semester"
+    },
+    {
+      "id": 6,
+      "level": "2",
+      "title": "Data Structures",
+      "description": "full course one semester"
+    },
+    {
+      "id": 7,
+      "level": "2",
+      "title": "Calculus II",
+      "description": "full course one semester"
+    },
+    {
+      "id": 8,
+      "level": "2",
+      "title": "Logic Design",
+      "description": "full course one semester"
+    },
+    {
+      "id": 9,
+      "level": "2",
+      "title": "Fundamentals of Management",
+      "description": "full course one semester"
+    },
+    {
+      "id": 10,
+      "level": "2",
+      "title": "Fundamentals of Programming II",
+      "description": "full course one semester"
+    },
+    {
+      "id": 11,
+      "level": "2",
+      "title": "Software and System Tools",
+      "description": "full course one semester"
+    },
+    {
+      "id": 12,
+      "level": "3",
+      "title": "Computer Networks I",
+      "description": "full course one semester"
+    },
+    {
+      "id": 13,
+      "level": "3",
+      "title": "Operating System",
+      "description": "full course one semester"
+    },
+    {
+      "id": 14,
+      "level": "3",
+      "title": "Computer Organization and Architecture",
+      "description": "full course one semester"
+    },
+    {
+      "id": 15,
+      "level": "3",
+      "title": "Programming on the Web",
+      "description": "full course one semester"
+    },
+    {
+      "id": 16,
+      "level": "3",
+      "title": "Software Engineering I",
+      "description": "full course one semester"
+    },
+    {
+      "id": 17,
+      "level": "3",
+      "title": "Database I",
+      "description": "full course one semester"
+    },
+    {
+      "id": 18,
+      "level": "4",
+      "title": "Speech and Image Processing",
+      "description": "full course one semester"
+    },
+    {
+      "id": 19,
+      "level": "4",
+      "title": "Formal Language and Automata",
+      "description": "full course one semester"
+    },
+    {
+      "id": 20,
+      "level": "4",
+      "title": "Data Compression",
+      "description": "full course one semester"
+    },
+    {
+      "id": 21,
+      "level": "4",
+      "title": "Machine Learning & Pattern Recognition",
+      "description": "full course one semester"
+    },
+    {
+      "id": 22,
+      "level": "4",
+      "title": "Human Computer Interaction",
+      "description": "full course one semester"
+    },
+    {
+      "id": 23,
+      "level": "4",
+      "title": "Selected Topics in Computer Science ",
+      "description": "full course one semester"
+    }
+  ],
+  "users": [
+    {
+      "email": "ahmed@mail.com",
+      "password": "$2a$10$/saqGC1C1KcRVezHGl0QHOWhP9cGE5TYvHju7gy4ffbIJMC95fw86",
+      "id": 1
+    },
+    {
+      "email": "mahmoud@mail.com",
+      "password": "$2a$10$csTk3j7IelezGvsD9HEJ5OhOA7/JSvxe3nR/SHH.uc2/yQAYNj/AW",
+      "id": 2
+    },
+    {
+      "email": "kamal@mail.com",
+      "password": "$2a$10$i.rzXnak4a7UHL/14/8m9.hRJl12zBXsViSAM4wBwxKhWMeuxjaAm",
+      "id": 3
+    },
+    {
+      "email": "mohamed@mail.com",
+      "password": "$2a$10$lAlO27Y0baihmATfofUzyOQ3uVuCDXGXW7eNOsXOkdIr5ERSakuf6",
+      "id": 4
+    },
+    {
+      "email": "enjy@mail.com",
+      "password": "$2a$10$Kcw9mzljhXcKmk4XZs1ZiuMKspYTQUGikwkqq.ZkLKj0NZwSDyKMy",
+      "id": 5
+    },
+    {
+      "email": "maha@mail.com",
+      "password": "$2a$10$VMBs8ZwB4LW.QpmcHQpkuub/4BfTi9A258Xy6gJO6l33O6GbJEaVG",
+      "id": 6
+    },
+    {
+      "email": "asem@mail.com",
+      "password": "$2a$10$p1168qKLcrzmcxcwdvZVJuCo0UYzVPyi8CvJgd.t4XMRRglHKkSV.",
+      "id": 7
+    },
+    {
+      "email": "ebrahim@mail.com",
+      "password": "$2a$10$JVqWmhFuBskT4tvWJ0QvteVR8HALADtxNnHGSef95V2g3zjavRZgq",
+      "id": 8
+    },
+    {
+      "email": "bassam@mail.com",
+      "password": "$2a$10$j2bNNd6etKUVq.XK4/0KNuoNKfrycDz54HktyD18RWIpjDfLXvoU2",
+      "id": 9
+    },
+    {
+      "email": "alfy@mail.com",
+      "password": "$2a$10$NeWiIqDQ341x8p7RI9ycHO1qHkSVGOG/Y4bEfeFMfanUiySuiaPBO",
+      "id": 10
+    },
+    {
+      "email": "ayman@mail.com",
+      "password": "$2a$10$v2ZJt2FQjJKflGzCFh.KquLwJxfwA4Wi0TDLui7hLqg6XyU1jaSt6",
+      "id": 11
+    },
+    {
+      "email": "mahmoud.alfy@mail.com",
+      "password": "$2a$10$QHNJqrP5372L9zIOL02bR.CFZekYrpM3fYMg5HvDa6esnwh7cKVWW",
+      "id": 12
+    }
+  ]
+}
